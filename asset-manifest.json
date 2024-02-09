@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Orphanage-React/static/css/main.e299c563.css",
+    "main.js": "/Orphanage-React/static/js/main.6a4f8c62.js",
+    "static/js/787.db517aee.chunk.js": "/Orphanage-React/static/js/787.db517aee.chunk.js",
+    "static/media/disaster-relief.JPG": "/Orphanage-React/static/media/disaster-relief.809a93342f0f3d859a9e.JPG",
+    "static/media/AboutUs.JPG": "/Orphanage-React/static/media/AboutUs.8038df7e8c6331dcf8ce.JPG",
+    "static/media/Day-Care.JPG": "/Orphanage-React/static/media/Day-Care.8857f5f851600c68ea60.JPG",
+    "static/media/health.JPG": "/Orphanage-React/static/media/health.c8772a1570c8d6d207ff.JPG",
+    "static/media/background.JPG": "/Orphanage-React/static/media/background.d523f5a7cf113312392d.JPG",
+    "static/media/Home.JPG": "/Orphanage-React/static/media/Home.1ac7d7a0ad924979c4c1.JPG",
+    "static/media/Skills-development.JPG": "/Orphanage-React/static/media/Skills-development.bff553b1be1e95e94bff.JPG",
+    "static/media/cancel.PNG": "/Orphanage-React/static/media/cancel.d2019fce5fd9bae11547.PNG",
+    "static/media/Education.JPG": "/Orphanage-React/static/media/Education.be4a67f452248159cf5a.JPG",
+    "static/media/menu.jpg": "/Orphanage-React/static/media/menu.75600a5529567c1e57d6.jpg",
+    "index.html": "/Orphanage-React/index.html",
+    "main.e299c563.css.map": "/Orphanage-React/static/css/main.e299c563.css.map",
+    "main.6a4f8c62.js.map": "/Orphanage-React/static/js/main.6a4f8c62.js.map",
+    "787.db517aee.chunk.js.map": "/Orphanage-React/static/js/787.db517aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e299c563.css",
+    "static/js/main.6a4f8c62.js"
+  ]
+}
