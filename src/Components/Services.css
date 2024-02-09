@@ -1,0 +1,35 @@
+.all-services {
+    text-align: center;
+    display: flex;
+}
+
+.services-text {
+    padding: 20px 200px;
+}
+
+.heading1 {
+    padding-left: 20px;
+    padding-bottom: -10px;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.heading-text {
+    padding: 0px 20px;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+    .services-text {
+        padding: 20px 25px;
+    }
+}

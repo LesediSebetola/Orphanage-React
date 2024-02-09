@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    line-height: 50px;
+}
+
+.footer2 { 
+    background: rgb(248, 247, 247);
+    list-style: none;
+    color: white;
+}
+
